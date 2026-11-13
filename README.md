@@ -67,7 +67,7 @@ Below is a detailed benchmark of leading commercial Remote Support and Access ve
 
 The open-source remote access ecosystem spans full-stack self-hosted clients, lightning-fast game/desktop streaming servers, browser-based HTML5 gateways, and core remote protocol libraries. 
 
-Repositories are listed in **descending order by GitHub star count**:
+Repositories are listed in **descending order by GitHub Stars_Count**:
 
 ### 1. [RustDesk](https://github.com/rustdesk/rustdesk) [![Stars](https://img.shields.io/github/stars/rustdesk/rustdesk?style=social&color=white)](https://github.com/rustdesk/rustdesk/stargazers)
 * **Tech Stack:** 🦀 Rust / Flutter / C++ | **License:** AGPL-3.0
@@ -188,7 +188,7 @@ Repositories are listed in **descending order by GitHub star count**:
 
 ## ⚖️ Architecture & Comparison Matrix
 
-| Project 🛠️ | Type / Category 📂 | License 📜 | Self-Hosted Server 🏠 | Zero-Install Client (Browser) 🌐 | Star Count 🌟 | Best Deployment Scenario 🎯 |
+| Project 🛠️ | Type / Category 📂 | License 📜 | Self-Hosted Server 🏠 | Zero-Install Client (Browser) 🌐 | Stars_Count 🌟 | Best Deployment Scenario 🎯 |
 |---|---|---|---|---|---|---|
 | **RustDesk** | Remote Control App | AGPL-3.0 | ✅ (OSS & Pro Relay) | ✅ (Web Client) | **129k+** | Direct drop-in replacement for TeamViewer & AnyDesk |
 | **Sunshine** | Host Streaming Server | GPL-3.0 | ✅ (Native Daemon) | ❌ (Pairs with Moonlight) | **43k+** | 4K 120fps low-latency desktop/workstation streaming |
