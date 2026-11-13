@@ -1,9 +1,10 @@
 # 🌐 Awesome Remote Support & Access Solutions 🖥️
 
-[![Awesome](https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github)](https://github.com/ishandutta2007/Awesome-Awesome-Awesmme)[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/jc4xtF58Ve)
+[![Awesome](https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github)](https://github.com/ishandutta2007/Awesome-Awesome-Awesmme)<a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Remote-Support-Access/pulls)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-Remote-Support-Access)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 > 🚀 **The definitive curated list of industry-leading Remote Support, Remote Desktop Access, Screen Sharing, and RMM Platforms.** Featuring in-depth pricing benchmarks, company valuations, market dynamics, and top-tier open-source self-hosted alternatives for IT administrators, sysadmins, DevOps, MSPs, and security teams.
 
@@ -32,6 +33,8 @@
   - [13. Aspia](#13-aspia-)
   - [14. ScottiBYTE Assist](#14-scottibyte-assist-)
 - [⚖️ Architecture & Comparison Matrix](#️-architecture--comparison-matrix)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [⭐ Star History](#-star-history)
 - [🤝 Contributing Guidelines](#-contributing-guidelines)
 - [📄 License](#-license)
 
@@ -201,6 +204,22 @@ Repositories are listed in **descending order by GitHub star count**:
 | **Selkies** | Cloud/WebRTC Streamer | MPL-2.0 | ✅ (Docker / K8s) | ✅ (WebRTC Browser) | **2.5k+** | Streaming containerized GPU desktops over WebRTC |
 | **Aspia** | Remote Desktop Suite | GPL-3.0 | ✅ (Host & Router) | ❌ (Native Client) | **1.9k+** | Lightweight standalone desktop control and fast file management |
 | **ScottiBYTE Assist** | Attended Support Portal | AGPL-3.0 | ✅ (Docker Compose) | ❌ (Attended Client) | **<100** | Strict consent-only remote customer tech support |
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you so much for taking the time to explore this curated resource! 🙏 If this repository has helped you discover tools, save time, or architect your remote infrastructure, please consider supporting the project:
+
+- ⭐ **Star this repository** to help others find it on GitHub.
+- 🍴 **Fork and share** it with your engineering team, sysadmin colleagues, or developer network.
+- ☕ **Buy me a coffee / Sponsor**: If you'd like to support ongoing maintenance and new curated resources, you can sponsor directly via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007). Every contribution is deeply appreciated!
+
+---
+
+## ⭐ Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Remote-Support-Access&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Remote-Support-Access&type=date&legend=top-left)
 
 ---
 
