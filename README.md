@@ -67,7 +67,7 @@ Below is a detailed benchmark of leading commercial Remote Support and Access ve
 
 The open-source remote access ecosystem spans full-stack self-hosted clients, lightning-fast game/desktop streaming servers, browser-based HTML5 gateways, and core remote protocol libraries. 
 
-Repositories are listed in **descending order by GitHub Stars_Count**:
+Repositories are listed in **descending order by GitHub_Stars_Count**:
 
 ### 1. [RustDesk](https://github.com/rustdesk/rustdesk) [![Stars](https://img.shields.io/github/stars/rustdesk/rustdesk?style=social&color=white)](https://github.com/rustdesk/rustdesk/stargazers)
 * **Tech Stack:** 🦀 Rust / Flutter / C++ | **License:** AGPL-3.0
